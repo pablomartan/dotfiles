@@ -41,4 +41,5 @@ return require('packer').startup(function(use)
   }
   use('f-person/auto-dark-mode.nvim')
   use('mattn/emmet-vim')
+  use('christoomey/vim-tmux-navigator')
 end)
