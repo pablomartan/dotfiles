@@ -49,4 +49,5 @@ require('pckr').add{
   'f-person/auto-dark-mode.nvim';
   'mattn/emmet-vim';
   'christoomey/vim-tmux-navigator';
+  'rbong/vim-flog';
 }
