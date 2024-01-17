@@ -56,4 +56,5 @@ require('pckr').add {
         requires = { 'nvim-lua/plenary.nvim' }
     },
     'sbdchd/neoformat';
+    'f-person/git-blame.nvim';
 }
