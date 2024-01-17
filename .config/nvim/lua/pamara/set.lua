@@ -30,4 +30,7 @@ vim.opt.updatetime = 50
 
 vim.opt.colorcolumn = "80"
 
+vim.opt.foldmethod = "expr"
+vim.opt.foldexpr = "nvim_treesitter#foldexpr()"
+
 vim.g.neoformat_try_node_exe = 1
