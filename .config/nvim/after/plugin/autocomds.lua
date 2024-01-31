@@ -1,5 +1,5 @@
 vim.cmd [[
-    autocmd BufWritePre *.js*,*.ts* Neoformat
+    autocmd BufWritePre *.js*,*.ts*,*.*css Neoformat
 ]]
 
 vim.cmd [[
